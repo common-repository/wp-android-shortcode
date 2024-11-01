@@ -1,0 +1,54 @@
+# Copyright (C) 2010 WP Android Shortcode
+# This file is distributed under the same license as the WP Android Shortcode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Android Shortcode 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-android-shortcode\n"
+"POT-Creation-Date: 2011-01-06 12:20:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: AndroidService.php:14
+msgid "this app"
+msgstr ""
+
+#: AndroidService.php:17
+msgid "Android Market badge"
+msgstr ""
+
+#: AndroidService.php:22
+msgid "Download %s from the Android Market"
+msgstr ""
+
+#: AndroidService.php:27
+msgid "Scan this QR code to download %s from the Android Market"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Android Shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.robotmedia.net/2010/12/wp-android-shortcode-a-wordpress-plugin-to-"
+"add-links-to-the-android-market/?"
+"utm_source=ios&utm_medium=about&utm_campaign=wp-android-shortcode"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add Android Market links to your website using the [android] shortcode"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Robot Media"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"http://www.robotmedia.net/?utm_source=ios&utm_medium=about&utm_campaign=wp-"
+"android-shortcode"
+msgstr ""
